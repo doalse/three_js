@@ -13,9 +13,9 @@
   "description": "",
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^15.3.0",
-    "dat.gui": "^0.7.9",
     "rollup": "^4.24.0",
     "rollup-plugin-commonjs": "^10.1.0",
-    "three": "^0.169.0"
+    "three": "^0.169.0",
+    "dat.gui": "^0.7.9"
   }
 }
